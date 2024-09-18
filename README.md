@@ -7,7 +7,7 @@ You can contact me via email as displayed to my GitHub profile to the left.
 You can also find my website at https://bogg.tech/.
 
 # Education
-**Trinity College Dublin** - *Ongoing, 2022-2027*
+**Trinity College Dublin** - Integrated Computer Science - *Ongoing, 2022-2027*
 - First Class Honours, years 1 & 2.
 
 # Skills
