@@ -13,7 +13,7 @@ You can also find my website at https://bogg.tech/.
 # Skills
 **Languages**: Python, Java, C, ARM Assembly, HTML, JavaScript, Haskell, Prolog
 
-**Technologies**: React, Node.js, Panda3D
+**Technologies**: React, Node.js, Panda3D, SQLite
 
 **Hardware**: 3D Printing, PC Building
 
