@@ -30,7 +30,7 @@ You can also find my website at https://bogg.tech/.
 
 **CSU11013** - [Programming Project 2023](https://github.com/BoggTech/FlightVis18)
 - First project as part of my course: a flight database visualizer.
-- Group Project. Fronted & Backend roles, as well as leadership. Developed in Processing.
+- Group Project. Frontend & Backend roles, as well as leadership. Developed in Processing.
 
 ~~More projects/details available on my website.~~ (soon)
  
